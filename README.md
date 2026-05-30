@@ -1,26 +1,66 @@
 
-<h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
-<h3 align="center">An engineering student,highly passionate data analytics</h3>
+# Hi 👋, I'm Rishabh Sharma
 
-- 🔭 I’m currently fresher [Superstore Sales Dashboard](https://github.com/rishabh830/sale-data-analysis)
+### 🎓 Engineering Student | Data Analytics Enthusiast
 
-- 👯 I’m [RFM-Based Customer Segmentation & Behavioral Analytics](https://github.com/rishabh830/Data-Analysis-main)
+Passionate about programming, data analysis, and building impactful projects.
 
-- 🤝 I’m looking for help with [Retail Data Analytics Project:](https://github.com/rishabh830/Retail-Data-Analytics)
+---
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1hbY6e4X5alOYnAYeJAlUraBw0DJkdrnn/view?usp=drive_link](https://drive.google.com/file/d/1hbY6e4X5alOYnAYeJAlUraBw0DJkdrnn/view?usp=drive_link)
+## 🚀 Skills & Tools
 
-- 💬 Ask me about **powerbi,python,matplotlib,SQL**
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📫 How to reach me **rishabh1612sharma@gmail.com**
+### Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hbY6e4X5alOYnAYeJAlUraBw0DJkdrnn/view?usp=drive_link](https://drive.google.com/file/d/1hbY6e4X5alOYnAYeJAlUraBw0DJkdrnn/view?usp=drive_link)
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishabh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh sharma" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/494334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="494334" height="30" width="40" /></a>
-</p>
+### BI & Productivity
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Development Tools
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+- Data Analytics
+- Machine Learning
+- Advanced SQL
+- Data Visualization
+
+---
+
+## 🎯 Focus Areas
+
+🐍 Python Development  
+🗄️ SQL & Database Management  
+📊 Data Analytics with Pandas & NumPy  
+📈 Data Visualization with Matplotlib & Seaborn  
+📉 Power BI Dashboards  
+📓 Jupyter Notebook Projects
+
+---
+
+## 🎯 2026 Goals
+✔ Build Real-World Data Analytics Projects  
+✔ Strengthen Python & SQL Skills  
+✔ Learn Machine Learning  
+✔ Contribute to Open Source
+
+---
+
+## 📫 Connect With Me
+
+🐙 GitHub: https://github.com/rishabh830
+
+⭐ Thanks for visiting my profile!
